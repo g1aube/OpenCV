@@ -5,7 +5,7 @@ import imutils
 import easyocr
 
 
-image = cv2.imread('images/car_5.jpg')
+image = cv2.imread('images/car_1.jpg')
 
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
