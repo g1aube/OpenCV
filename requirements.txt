@@ -1,1 +1,4 @@
 opencv-python
+easyocr
+imutils
+matplotlib
